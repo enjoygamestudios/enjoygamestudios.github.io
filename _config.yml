@@ -1,0 +1,92 @@
+# Where things are
+source:       .
+destination:  ./_site
+plugins:      ./_plugins
+layouts:      ./_layouts
+paginate:     8
+
+# Handling Reading
+safe:         false
+include:      [".htaccess"]
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+textile_ext:  "textile"
+
+# Filtering Content
+show_drafts:  null
+limit_posts:  0
+future:       true
+unpublished:  false
+
+# Conversion
+markdown:     kramdown
+highlighter:  pygments
+lsi:          false
+excerpt_separator: "\n\n"
+
+# Serving
+detach:       false
+port:         4000
+host:         127.0.0.1
+baseurl:      "" # does not include hostname
+
+# Outputting
+permalink: /:title
+timezone:      null
+
+
+#站点基础配置
+homeTitle: EnjoyGame Studios-IOS & Android Mobile Games
+title: EnjoyGame Studios
+subTitle: Focus on IOS and Android casual puzzle game development!Enjoy Game!Enjoy Life!
+description: EnjoyGame Studios focus on IOS and Android casual puzzle game development!For players to create a pleasant,fun and exciting experience!
+url: http://enjoystudio.cn
+feed: /atom.xml
+
+#菜单配置
+nav:
+  - text: Hot Games
+    url: /index.html
+  - text: All Games
+    url: /allgames.html
+  - text: Contact
+    url: /contact.html
+
+#theme config
+themes: /themes/violet
+
+#配置你喜欢的顶部背景图片
+headimg:
+  - item: /images/head/hdbg01.jpg
+  - item: /images/head/hdbg02.jpg
+  - item: /images/head/hdbg03.jpg
+  - item: /images/head/hdbg04.jpg
+
+#关注我
+follow:
+  - class: fa-google-plus fa-2x
+    url: https://plus.google.com/u/0/116956453561781427371
+  - class: fa-twitter fa-2x
+    url: http://www.twitter.com/EnjoyGameStudio
+  - class: fa-facebook fa-2x
+    url: http://www.facebook.com/enjoygamestudio
+  - class: fa-weibo fa-2x
+    url: http://weibo.com/enjoygamestudios
+  - class: fa-youtube fa-2x
+    url: https://www.youtube.com/user/EnjoyGameStudio
+
+#作者信息
+author:
+  link: http://www.enjoystudio.cn/contact.html
+  img: "/images/logo.png"
+
+#评论信息
+disqus:
+  config: false
+  id: piznblog
+
+duoshuo:
+  config: false
+  id: zhanxin
