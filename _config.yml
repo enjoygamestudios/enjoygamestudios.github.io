@@ -42,7 +42,7 @@ homeTitle: EnjoyGame Studios-IOS & Android Mobile Games
 title: EnjoyGame Studios
 subTitle: Focus on IOS and Android casual puzzle game development!Enjoy Game!Enjoy Life!
 description: EnjoyGame Studios focus on IOS and Android casual puzzle game development!For players to create a pleasant,fun and exciting experience!
-url: http://enjoystudio.cn
+url: http://enjoygamestudio.com
 feed: /atom.xml
 
 #菜单配置
@@ -80,7 +80,7 @@ follow:
 #作者信息
 author:
   name: EnjoyGame Studios
-  link: http://www.enjoystudio.cn/contact.html
+  link: http://www.enjoygamestudio.com/contact.html
   img: "/images/logo.png"
 
 #评论信息
