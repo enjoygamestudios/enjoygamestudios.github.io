@@ -130,8 +130,8 @@ a:hover {
 #violet-head {
     width: 100%;
     height: 200px;
-    background-color: #fff;
-    background-image: url(../images/hdbg03.jpg);
+    background-color: #34495e;
+    /*background-image: url(../images/hdbg03.jpg);*/
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
