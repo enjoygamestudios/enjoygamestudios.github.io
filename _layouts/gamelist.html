@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>
+        {% if page.title %}
+            {{ page.title }} | {{ site.homeTitle }}
+        {% else %}
+            {{ site.homeTitle }}
+        {% endif %}         
+    </title>
+    <meta name="generator" content="Jekyll" />
+    <meta name="author" content="{{ site.author.name }}" />
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="keywords" content="{{ page.keywords | join: ',' }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <!-- //页面样式 -->
+    <link rel="stylesheet" href="/css/master.css" type="text/css" />
+</head>
+<body style="margin:0;padding:0;">
+    <div>
+        {{ content }}
+    </div>
+</body>
+</html>
