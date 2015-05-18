@@ -47,6 +47,7 @@ div.span-3{
 	/*float: left;*/
 	margin-right: 0px;
 	margin-left: 1.1%;
+	background:#1c1c22;
 }
 .last,div.last {
 	margin-right: 0;
@@ -79,6 +80,7 @@ div.span-3{
 .gamelisttitle {
 	font-family: Helvetica, sans-serif;
 	font-size: 12%;
+	color: #fff;
 	margin-bottom: 0%;
 	text-overflow: clip;
 	overflow: hidden;
@@ -113,14 +115,14 @@ hr.space {
 	background-color: #FFF;
 }
 .listtile {
-	border: 1px solid #fff;
+	border: 1px solid #1c1c22;
 	padding-left: 3px;
 	padding-right: 3px;
-	padding-top: 1px;
+	padding-top: 0px;
 	border-radius: 3px;
 	display: block;
 	margin-bottom: 0px;
-	background-color: #FFF;
+	background-color: #1c1c22;
 	width:92%;
 	height:92%;
 }
