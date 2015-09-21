@@ -135,3 +135,38 @@ a:hover .tile {
 	border-color: #3061BE;
 	text-decoration: none;
 }
+
+@media only screen and (min-width: 791px) {
+}
+@media only screen and (min-width: 320px) and (max-width: 790px) {
+	#content-wrap {
+	width: 100%;
+	}
+	.container {
+		width: 97.5%;
+	}
+	.span-5{
+		width:22.5%;
+	}
+	.tile{
+		width:95%;
+		height:95%;
+	}
+	.gametitle {
+		font-size: 0.8em;
+		text-overflow: clip;
+		overflow: hidden;
+		display: block;
+		white-space: nowrap;
+	}
+	.subgametitle{
+		display:none;
+	}
+	#post-content-wrap {
+		width: 100%;
+	}
+
+	.post-container {
+		width: 100%;
+	}
+}
