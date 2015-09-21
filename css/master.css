@@ -148,6 +148,15 @@ a:hover .tile {
 	.span-5{
 		width:22.5%;
 	}
+	div.span-8{
+		width: 100%;
+		margin-right: 0px;
+	}
+	div.span-8 img{
+		clear: both; 
+        display: block; 
+        margin:auto; 
+	}
 	.tile{
 		width:95%;
 		height:95%;

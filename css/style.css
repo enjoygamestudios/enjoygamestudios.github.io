@@ -557,11 +557,11 @@ a.toTop:hover {
     vertical-align: top;
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
 
 }
 
-@media only screen and (min-width: 320px) and (max-width: 767px) {
+@media only screen and (min-width: 320px) and (max-width: 768px) {
     #violet-head {
         height: 170px;
     }
@@ -587,10 +587,10 @@ a.toTop:hover {
         overflow: hidden;
     }
     .nav-item {
-        padding: 8px 10px 8px 0;
+        padding: 8px 8px 8px 0;
     }
     .nav-item a {
-        padding: 0 15px;
+        padding: 0 10px;
         font-size: 12px;
     }
     .violet-title .violet-title-item {
@@ -666,8 +666,18 @@ a.toTop:hover {
         display: none;
     }
     .violet-title .violet-title-item {
-        font-size: 1.8em;
+        font-size: 1.5em;
     }
+
+    .pagination-list .prev,.pagination-list .next  {
+        width: 45%;
+        padding: 0;
+        text-overflow: clip;
+        overflow: hidden;
+        display: block;
+        white-space: nowrap;
+    }
+
 
 }
 
