@@ -1,0 +1,65 @@
+{"apps":
+[
+{
+	"app_name":
+	{
+		"en":"",
+		"cn":""
+	},
+	"desc":
+	{
+		"en":"",
+		"cn":""
+	},
+	"icon_url":"http://enjoygamestudios.github.io/crossads/icon/impossiblepixelsspotter/icon.png",
+	"app_id":
+	{
+		"ios":"1071220503",
+		"android":"com.es.games.finddiferencetwo"
+	},
+	"preview_url":
+	{
+		"portrait":
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/en.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/cn.jpg"
+		},
+		"landscape":
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/en_landscape.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/cn_landscape.jpg"
+		}
+	}
+},
+{
+	"app_name":
+	{
+		"en":"",
+		"cn":""
+	},
+	"desc":
+	{
+		"en":"",
+		"cn":""
+	},
+	"icon_url":"http://enjoygamestudios.github.io/crossads/icon/fruitlink/icon.png",
+	"app_id":
+	{
+		"ios":"806781106",
+		"android":"com.es.game.fruitlinkcrush"
+	},
+	"preview_url":
+	{
+		"portrait":
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/en.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/cn.jpg"
+		},
+		"landscape":
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/en_landscape.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/cn_landscape.jpg"
+		}
+	}
+}
+]}
