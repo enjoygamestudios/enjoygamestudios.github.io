@@ -12,10 +12,11 @@
 		"cn":""
 	},
 	"icon_url":"http://enjoygamestudios.github.io/crossads/icon/impossiblepixelsspotter/icon.png",
-	"app_id":
+	"package":"com.es.games.finddiferencetwo",
+	"store_url":
 	{
-		"ios":"1071220503",
-		"android":"com.es.games.finddiferencetwo"
+		"ios":"https://itunes.apple.com/app/id1071220503?mt=8",
+		"android":"market://details?id=com.es.games.finddiferencetwo"
 	},
 	"preview_url":
 	{
@@ -43,10 +44,11 @@
 		"cn":""
 	},
 	"icon_url":"http://enjoygamestudios.github.io/crossads/icon/fruitlink/icon.png",
-	"app_id":
+	"package":"com.es.game.fruitlinkcrush",
+	"store_url":
 	{
-		"ios":"806781106",
-		"android":"com.es.game.fruitlinkcrush"
+		"ios":"https://itunes.apple.com/app/id806781106?mt=8",
+		"android":"market://details?id=com.es.game.fruitlinkcrush"
 	},
 	"preview_url":
 	{
