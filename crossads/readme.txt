@@ -1,0 +1,70 @@
+{"display_type":"0",//展示方式0:随机展示一个游戏，1:按照顺序轮番展示，2:固定展示一个，固定展示游戏编号display_index
+"display_index":"0",//display_typew为2时候固定展示游戏编号
+"close_ads_apps":[""],//某些游戏不想展示交叉广告，可以把包名配置到这里面
+"apps"://用来展示交叉广告的游戏信息数组
+[
+{
+	"app_name"://游戏名称
+	{
+		"en":"",
+		"cn":""
+	},
+	"desc":// 游戏描述
+	{
+		"en":"",
+		"cn":""
+	},
+	"icon_url":"http://enjoygamestudios.github.io/crossads/icon/impossiblepixelsspotter/icon.png",
+	"package":"com.es.games.finddiferencetwo",//包名
+	"store_url"://下载地址
+	{
+		"ios":"https://itunes.apple.com/app/id1071220503?mt=8",
+		"android":"market://details?id=com.es.games.finddiferencetwo"
+	},
+	"preview_url":// 插屏预览图，图片有中文和英文，图片大小320*568，横屏568*320.图片中加上一个play now或者马上玩按钮图片，jgp格式。
+	{
+		"portrait"://竖屏图
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/en.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/cn.jpg"
+		},
+		"landscape"://横屏图
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/en_landscape.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/impossiblepixelsspotter/cn_landscape.jpg"
+		}
+	}
+},
+{
+	"app_name":
+	{
+		"en":"",
+		"cn":""
+	},
+	"desc":
+	{
+		"en":"",
+		"cn":""
+	},
+	"icon_url":"http://enjoygamestudios.github.io/crossads/icon/fruitlink/icon.png",
+	"package":"com.es.game.fruitlinkcrush",
+	"store_url":
+	{
+		"ios":"https://itunes.apple.com/app/id806781106?mt=8",
+		"android":"market://details?id=com.es.game.fruitlinkcrush"
+	},
+	"preview_url":
+	{
+		"portrait":
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/en.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/cn.jpg"
+		},
+		"landscape":
+		{
+		"en":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/en_landscape.jpg",
+		"cn":"http://enjoygamestudios.github.io/crossads/preview/fruitlink/cn_landscape.jpg"
+		}
+	}
+}
+]}
