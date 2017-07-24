@@ -40,7 +40,7 @@ timezone:      null
 #站点基础配置
 homeTitle: EnjoyGame Studio - iOS & Android Mobile Games
 title: EnjoyGame Studio
-subTitle: Focus on iOS and Android casual puzzle game development! Enjoy Game! Enjoy Happy!
+subTitle: Enjoy Game! Enjoy Happy!
 description: EnjoyGame Studio focus on iOS and Android casual puzzle game development! For players to create a pleasant,fun and exciting experience!
 url: http://enjoygamestudio.com
 feed: /atom.xml
