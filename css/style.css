@@ -404,7 +404,7 @@ a:hover {
     background: rgba(0, 0, 0, 0.8);
 }
 .violet-title {
-    padding: 10px 0;
+    padding: 5px 0;
     width: 100%;
     #background: #f6f6f6;
 }
@@ -567,7 +567,7 @@ a.toTop:hover {
     }
     #violet-header {
         width: 100%;
-        height: 120px;
+        height: 90px;
         box-sizing: border-box;
         padding-left: 20px;
         padding-right: 20px;
